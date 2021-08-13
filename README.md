@@ -1,4 +1,4 @@
-### Olá! Eu sou o Carlos Daniel
+### Olá! Eu sou o Carlos Daniel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 🔭 Atualmente estou apenas estudando
 - 🌱 Estudando Javascript e seus frameworks
