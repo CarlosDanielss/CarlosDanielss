@@ -1,14 +1,19 @@
 ### Olá! Eu sou o Carlos Daniel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 🔭 Atualmente estou apenas estudando
-- 🌱 Estudando Javascript e seus frameworks
+- 🌱 Estudante de Análise e desenvolvimento de sistemas
+- 💙 Interesse: html, css, javaScript, C#, typescript, react, react native, nextJs, vueJs e nodeJs.
 - 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/Carlos-Daniel-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Daniel-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Daniel-dev&layout=compact&langs_count=16&theme=radical"/>
 </div>
+
+## Skills :nerd_face:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
