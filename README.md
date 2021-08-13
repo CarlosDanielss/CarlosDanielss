@@ -28,3 +28,6 @@
   <a href = "mailto:danielcontatoaguilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-daniel-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+## Total de Visitas no perfil :detective: <br>
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
