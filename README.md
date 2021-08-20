@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou apenas estudando
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 💙 Interesse: html, css, javaScript, C#, typescript, react, react native, nextJs, vueJs e nodeJs.
-- 😄 Pronouns: ele/dele
+
 
 
 <div>
