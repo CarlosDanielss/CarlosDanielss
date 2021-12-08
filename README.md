@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou apenas estudando
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
-- 💙 Interesse: html, css, javaScript, C#, typescript, react, react native, nextJs, vueJs e nodeJs.
+- 💙 Interesse: html, css, javaScript, typescript, react, react native, nextJs, vueJs e nodeJs.
 
 
 
