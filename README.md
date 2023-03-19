@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Carlos Daniel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- 🔭 Atualmente Desenvolvedor Web
+- 🔭 Web developer | Instituto Presbiteriano Mackenzie
 - 🌱 Formando de Análise e desenvolvimento de sistemas
-- 💙 Estudando atualmente: React, Electron, React Native, NextJs,Three.js e NodeJs.
+- 💙 Estudando atualmente: React, Electron, React Native, NextJs, Three.js e NodeJs.
 
 
 
