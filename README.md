@@ -2,7 +2,7 @@
 
 - 🔭 Web developer | Instituto Presbiteriano Mackenzie
 - 🌱 Formando de Análise e desenvolvimento de sistemas
-- 💙 Estudando atualmente: React, Electron, React Native, NextJs, Three.js e NodeJs.
+- 💙 Estudando atualmente: React, NextJs e NodeJs.
 
 
 
