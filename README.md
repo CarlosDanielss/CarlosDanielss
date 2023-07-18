@@ -4,7 +4,7 @@
 - 🌱 Formando de Análise e desenvolvimento de sistemas
 - 💙 Estudando atualmente: ReactJS, NextJS e NodeJS.
 
-
+<img align="center" width='220' alt="Banner Animado do Github do Luk4x" src="Title.svg" />
 
 <div>
   <a href="https://github.com/CarlosDanielss">
