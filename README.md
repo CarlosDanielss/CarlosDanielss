@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63997a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+Daniel;Fullstack+Web+Developer;It's+so+cool+to+have+you+here!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63997a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+Daniel;I'm+23+years+old;Fullstack+Web+Developer;It's+so+cool+to+have+you+here!+:%29)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosDanielss&color=63997a" alt="Profile views" /> </p>
 
 - 🔥 Fullstack Web Developer - "Focused on developing scalable and innovative applications"
