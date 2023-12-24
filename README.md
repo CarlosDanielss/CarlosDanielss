@@ -1,35 +1,61 @@
-### Olá! Eu sou o Carlos Daniel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63997a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+Daniel;Fullstack+Web+Developer;It's+so+cool+to+have+you+here!+:%29)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosDanielss&color=63997a" alt="Profile views" /> </p>
 
-- 🔭 Web developer | Instituto Presbiteriano Mackenzie
-- 🌱 Formando de Análise e desenvolvimento de sistemas
-- 💙 Estudando atualmente: ReactJS, NextJS e NodeJS.
+- 🔥 Fullstack Web Developer - "Focused on developing scalable and innovative applications"
+- 🔭 I’m currently working at [Instituto Presbiteriano Mackenzie](https://www.mackenzie.br/instituto)
+- 🎓 Graduated in Systems Analysis and Development
+- ⚡ Fun fact I love playing but I'm terrible 😂
 
-<img align="center" width='220' alt="Banner Animado do Github do Luk4x" src="Title.svg" />
-
-<div>
-  <a href="https://github.com/CarlosDanielss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielss&layout=compact&langs_count=16&theme=radical"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielss&show_icons=true&count_private=true&hide_border=true&title_color=63997a&icon_color=63997a&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Daniel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielss&layout=compact&hide_border=true&title_color=63997a&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## Skills
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosDanielss&bg_color=000000&color=63997a&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dan-Bt" height="41" width="40" src="https://img.icons8.com/color/452/bootstrap.png">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-</div>
+### Main skills:
 
-## Contact
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div>
-  <a href="https://instagram.com/_carlosdaniells" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danielcontatoaguilar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-daniel-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### Other Knowledge:
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![ChakraUi](https://img.shields.io/badge/-ChakraUi-0D1117?style=for-the-badge&logo=ChakraUi&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
+![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=Fastify&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MongoDb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-0D1117?style=for-the-badge&logo=Electron&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-0D1117?style=for-the-badge&logo=Electron&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Contact
+
+<a href="https://www.linkedin.com/in/carlos-daniel-santos/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CarlosDaniel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-carlos.daniel.0486@gmail.com-05122A?style=flat&logo=gmail" alt="instagram"/>
+</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63997a&height=120&section=footer"/>
   
 
