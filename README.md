@@ -56,6 +56,5 @@
  <img align="center" src="https://img.shields.io/badge/-carlos.daniel.0486@gmail.com-05122A?style=flat&logo=gmail" alt="instagram"/>
 </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63997a&height=120&section=footer"/>
   
 
