@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosDanielss&color=63997a" alt="Profile views" /> </p>
 
 - 🔥 Fullstack Developer - "Focused on developing scalable and innovative applications"
-- 🔭 I’m currently working at [Instituto Presbiteriano Mackenzie](https://www.mackenzie.br/instituto)
+- 🔭 I am available to work
 - 🎓 Graduated in Systems Analysis and Development
 - ⚡ Fun fact I love playing but I'm terrible 😂
 
