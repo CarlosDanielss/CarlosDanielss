@@ -22,30 +22,11 @@
 
 ### Other Knowledge:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
-![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![ChakraUi](https://img.shields.io/badge/-ChakraUi-0D1117?style=for-the-badge&logo=ChakraUi&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=Fastify&labelColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-0D1117?style=for-the-badge&logo=Electron&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-0D1117?style=for-the-badge&logo=Electron&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Contact
 
