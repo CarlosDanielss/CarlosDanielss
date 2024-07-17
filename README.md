@@ -7,6 +7,13 @@
 - 🎓 Graduated in Systems Analysis and Development
 - ⚡ Fun fact I love playing but I'm terrible 😂
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielss&show_icons=true&count_private=true&hide_border=true&title_color=63997a&icon_color=63997a&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Daniel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielss&layout=compact&hide_border=true&title_color=63997a&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosDanielss&bg_color=000000&color=63997a&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Development Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
