@@ -1,43 +1,166 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Carlos Daniel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CarlosDanielss&color=yellow" alt="Profile views" /> </p>
+### Software Engineer • Full Stack Developer • Systems Architecture & Scalability
 
-- 🔥 Fullstack Developer - "Focused on developing scalable and innovative applications"
-- 🔭 I am available to work
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NodeJS**
-- 🎓 Graduated in Systems Analysis and Development
-- ⚡ Fun fact I love playing but I'm terrible 😂
+Building scalable applications, backend systems and product-focused solutions with strong attention to performance, maintainability and real-world impact.
 
+---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielss&show_icons=true&count_private=true&hide_border=true&title_color=63997a&icon_color=63997a&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Daniel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielss&layout=compact&hide_border=true&title_color=63997a&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+## About Me
 
+I'm a Full Stack Software Engineer with experience building scalable systems, internal platforms and high-demand applications across education, fintech, entertainment and product environments.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosDanielss&bg_color=000000&color=63997a&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Over the last few years, I've worked on projects involving software architecture, performance optimization, backend engineering, technical leadership and cloud infrastructure — participating in everything from requirements definition and technical planning to implementation, scalability and long-term maintenance.
 
-## Development Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-</br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Today, my work goes far beyond coding features.
+I also contribute through:
 
-## Currently Learning
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+* Technical refinement and requirement analysis
+* Software architecture decisions
+* Code reviews and engineering best practices
+* Performance and scalability improvements
+* Documentation and developer experience
+* Risk analysis for implementations
+* Technical mentoring and team support
 
-## Contact
+I enjoy building systems that solve real operational problems while balancing scalability, reliability and product needs.
 
-<a href="https://www.linkedin.com/in/carlos-daniel-santos/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CarlosDaniel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-carlos.daniel.0486@gmail.com-05122A?style=flat&logo=gmail" alt="instagram"/>
-</a>
+---
+
+## Tech Stack
+
+### Backend Engineering
+
+* Node.js
+* NestJS
+* Fastify
+* Express
+* Golang (Gin)
+* REST APIs
+* gRPC
+* WebSockets
+
+### Frontend & Mobile
+
+* React.js
+* Next.js
+* React Native
+* Tailwind CSS
+* Styled Components
+
+### Architecture & Software Design
+
+* Clean Architecture
+* SOLID Principles
+* Domain-Driven Design (DDD)
+* Modular Monoliths
+* Microservices
+* MVC
+
+### Databases & Storage
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+
+### Messaging & Async Processing
+
+* RabbitMQ
+* BullMQ
+* Asynq
+
+### Cloud & DevOps
+
+* Docker
+* AWS EC2
+* AWS ECS
+* AWS Lambda
+* AWS RDS
+* AWS S3
+* AWS IAM
+* AWS SQS
+* AWS SNS
+* AWS SES
+
+### Testing & Quality
+
+* Jest
+* Vitest
+* TDD
+* Clean Code
+* Benchmark & Load Testing
+
+### Performance & Observability
+
+* k6
+* Autocannon
+* Performance optimization for Node.js applications
+* Observability studies and tracing
+
+---
+
+## Current Focus
+
+Currently deepening my knowledge in:
+
+* Distributed systems
+* Observability & tracing
+* Event-driven architecture
+* Scalable backend systems
+* Cloud-native applications
+* Software architecture patterns
+
+---
+
+### Technical Leadership Experience
+
+Currently acting in technical leadership responsibilities across projects, helping with:
+
+* Sprint planning
+* Architecture decisions
+* Team support and mentoring
+* Technical direction
+* Code quality and engineering processes
+
+---
+
+## What I Value
+
+I believe good software starts with understanding the real problem.
+
+My goal is to build systems that are:
+
+* Scalable
+* Maintainable
+* Reliable
+* Well-structured
+* Product-oriented
+
+Technology only creates value when it solves real problems efficiently and sustainably.
+
+---
+
+## Featured Areas
+
+* Full Stack Engineering
+* Backend Engineering
+* Software Architecture
+* Product Engineering
+* Scalable Applications
+* Cloud Infrastructure
+* Performance Optimization
+* Technical Leadership
+
+---
+
+## Connect With Me
+
+* LinkedIn: [https://linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)
+* Email: [carlos.daniel.0486@gmail.com](mailto:carlos.daniel.0486@gmail.com)
+
+---
+
+> "Good systems are built with good questions first."
+
 
   
 
