@@ -109,49 +109,6 @@ Currently deepening my knowledge in:
 * Cloud-native applications
 * Software architecture patterns
 
----
-
-### Technical Leadership Experience
-
-Currently acting in technical leadership responsibilities across projects, helping with:
-
-* Sprint planning
-* Architecture decisions
-* Team support and mentoring
-* Technical direction
-* Code quality and engineering processes
-
----
-
-## What I Value
-
-I believe good software starts with understanding the real problem.
-
-My goal is to build systems that are:
-
-* Scalable
-* Maintainable
-* Reliable
-* Well-structured
-* Product-oriented
-
-Technology only creates value when it solves real problems efficiently and sustainably.
-
----
-
-## Featured Areas
-
-* Full Stack Engineering
-* Backend Engineering
-* Software Architecture
-* Product Engineering
-* Scalable Applications
-* Cloud Infrastructure
-* Performance Optimization
-* Technical Leadership
-
----
-
 ## Connect With Me
 
 * LinkedIn: [https://linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)
